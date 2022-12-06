@@ -19,7 +19,7 @@ You will also see any lint errors in the console.
 | Lisandra Ferraz de Santana |
 | Gabriel Gozzi |
 | Renan Figueiredo |
-| Daniela Houck |
+| Daniela Lemmo Houck |
 | Paulo H. C. Jesus |
 
 ##### Processo de Desenvolvimento de Software - PDS
